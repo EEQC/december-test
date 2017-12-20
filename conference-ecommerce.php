@@ -1,10 +1,10 @@
 <html>
-
+test-sutech
 <head>
 <meta http-equiv="Content-Language" content="fr-ca">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Conférence e-Commerce</title>
+<title>ConfÃ©rence e-Commerce</title>
 <link rel="stylesheet" type="text/css" href="/css/ecommerce.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -52,7 +52,7 @@
           <td width="100%" colspan="2">
           	<div id="blockCenter">
 				<div class="title">
-					<p align="justify">André Menand, Directeur de l’équipe services spécialisés en croissance d’entreprise sera présent en compagnie d’Anthony Vendrame et de Pierre-Olivier Verret de Poches & Fils <b>le 17 mai</b> à la Maison du Cinéma de Sherbrooke pour vous parler de e-commerce!</p>
+					<p align="justify">AndrÃ© Menand, Directeur de lâ€™Ã©quipe services spÃ©cialisÃ©s en croissance dâ€™entreprise sera prÃ©sent en compagnie dâ€™Anthony Vendrame et de Pierre-Olivier Verret de Poches & Fils <b>le 17 mai</b> Ã  la Maison du CinÃ©ma de Sherbrooke pour vous parler de e-commerce!</p>
 				</div>
 			</div>
 			</div>
@@ -61,15 +61,15 @@
 		<tr>
 			<td width="100%" height="100%" colspan="2">
 				 <div id="quote"></div>
-					<h2>Cette conférence met de l’avant l’importance d’être présent où le consommateur effectue ses achats. Les Québécois ont dépensés plus de 8,5 milliards de dollars en ligne durant l’année 2016. Que ce soit pour gérer votre boutique en ligne ou pour maximiser votre taux de conversion au travers d’une stratégie de marketing numérique efficace, venez nombreux pour écouter les meilleurs conseils des personnes derrière le succès de l’entreprise Poches&Fils.</h2>
+					<h2>Cette confÃ©rence met de lâ€™avant lâ€™importance dâ€™Ãªtre prÃ©sent oÃ¹ le consommateur effectue ses achats. Les QuÃ©bÃ©cois ont dÃ©pensÃ©s plus de 8,5 milliards de dollars en ligne durant lâ€™annÃ©e 2016. Que ce soit pour gÃ©rer votre boutique en ligne ou pour maximiser votre taux de conversion au travers dâ€™une stratÃ©gie de marketing numÃ©rique efficace, venez nombreux pour Ã©couter les meilleurs conseils des personnes derriÃ¨re le succÃ¨s de lâ€™entreprise Poches&Fils.</h2>
 			</td>
 		</tr>
 		<tr>
           <td width="100%" colspan="2">
           	 <div id="blockCenter">
 				<div class="title">
-					<p align="justify"><b>André Menand<br>Directeur de l’équipe services spécialisés en croissance d’entreprise, SAJE accompagnateur d’entrepreneurs</b></p>
-					<p align="justify">André Menand cumule plus de 15 années d’expérience en développement d’entreprise, mise en marche´, exportation et vente. Au cours de sa carrière, il a su accompagner plus de 500 entrepreneurs dans leur développement, dont 120 dans leur projet a` l’international. Il est également directeur du projet Succès-Numérique et InfoSocioFinancement. Depuis 3 ans, André Menand est conférencier sur différents projets de développement économique en Amérique latine.</p>
+					<p align="justify"><b>AndrÃ© Menand<br>Directeur de lâ€™Ã©quipe services spÃ©cialisÃ©s en croissance dâ€™entreprise, SAJE accompagnateur dâ€™entrepreneurs</b></p>
+					<p align="justify">AndrÃ© Menand cumule plus de 15 annÃ©es dâ€™expÃ©rience en dÃ©veloppement dâ€™entreprise, mise en marcheÂ´, exportation et vente. Au cours de sa carriÃ¨re, il a su accompagner plus de 500 entrepreneurs dans leur dÃ©veloppement, dont 120 dans leur projet a` lâ€™international. Il est Ã©galement directeur du projet SuccÃ¨s-NumÃ©rique et InfoSocioFinancement. Depuis 3 ans, AndrÃ© Menand est confÃ©rencier sur diffÃ©rents projets de dÃ©veloppement Ã©conomique en AmÃ©rique latine.</p>
 					</div>
 				</div>
 			</div>
@@ -80,7 +80,7 @@
           	 <div id="blockCenter">
 				<div class="title">
 					<p align="justify"><b>Anthony Vendrame<br>Fondateur, CEO et Directeur Ventes &Marketing, Poches & Fils</b></p>
-					<p align="justify">Jeune entrepreneur, Anthony Vendrame cumule les succès en marketing et en vente. À titre de fondateur de Poches & Fils, il propulse l’entreprise et fait plus que quadrupler le chiffre d’affaires entre le premier et le deuxième exercice. La force de l’entreprise? Avoir un taux de conversion de visiteurs en acheteurs deux fois supérieur à la moyenne du marché. Poches & Fils a remporté le Prix Reconnaissance eCommerce-Québec 2016 du Conseil québécois du commerce de détail, pour l’intégration des médias sociaux dans sa stratégie marketing.</p>
+					<p align="justify">Jeune entrepreneur, Anthony Vendrame cumule les succÃ¨s en marketing et en vente. Ã€ titre de fondateur de Poches & Fils, il propulse lâ€™entreprise et fait plus que quadrupler le chiffre dâ€™affaires entre le premier et le deuxiÃ¨me exercice. La force de lâ€™entreprise? Avoir un taux de conversion de visiteurs en acheteurs deux fois supÃ©rieur Ã  la moyenne du marchÃ©. Poches & Fils a remportÃ© le Prix Reconnaissance eCommerce-QuÃ©bec 2016 du Conseil quÃ©bÃ©cois du commerce de dÃ©tail, pour lâ€™intÃ©gration des mÃ©dias sociaux dans sa stratÃ©gie marketing.</p>
 					</div>
 				</div>
 			</div>
@@ -90,8 +90,8 @@
           <td width="100%" colspan="2">
           	 <div id="blockCenter">
 				<div class="title">
-					<p align="justify"><b>Pierre-Olivier Verret<br>Consultant - Stratège marketing numérique, Poches & Fils</b></p>
-					<p align="justify">Pierre-Olivier Verret participe au succès de Poches & Fils à titre de spécialiste marketing numérique. Il a d’ailleurs mis en place les stratégies de gestion de communautés, doublant de ce fait les audiences Facebook et Instagram, passant respectivement de 30000 à 60000 et de 15000 à 30000 abonnés en moins d’un an. Se spécialisant en stratégies marketing numérique, il apporte également son expertise à plusieurs entreprises telles que : 1642 Colas, KaseMe, CVert, Jet7 Location ou Edward Smoked Meat.</p>
+					<p align="justify"><b>Pierre-Olivier Verret<br>Consultant - StratÃ¨ge marketing numÃ©rique, Poches & Fils</b></p>
+					<p align="justify">Pierre-Olivier Verret participe au succÃ¨s de Poches & Fils Ã  titre de spÃ©cialiste marketing numÃ©rique. Il a dâ€™ailleurs mis en place les stratÃ©gies de gestion de communautÃ©s, doublant de ce fait les audiences Facebook et Instagram, passant respectivement de 30000 Ã  60000 et de 15000 Ã  30000 abonnÃ©s en moins dâ€™un an. Se spÃ©cialisant en stratÃ©gies marketing numÃ©rique, il apporte Ã©galement son expertise Ã  plusieurs entreprises telles que : 1642 Colas, KaseMe, CVert, Jet7 Location ou Edward Smoked Meat.</p>
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
           <td width="100%" colspan="2">
           	 <div id="blockCenter">
 				<div class="texte">
-					<p align="justify">Si vous voulez accroître vos ventes en ligne et profiter des meilleurs conseils pour faire la promotion de votre cybercommerce, inscrivez-vous maintenant en cliquant sur le boutton ci-dessous.</p>
+					<p align="justify">Si vous voulez accroÃ®tre vos ventes en ligne et profiter des meilleurs conseils pour faire la promotion de votre cybercommerce, inscrivez-vous maintenant en cliquant sur le boutton ci-dessous.</p>
 					<p align="center"><a target="_blank" href="https://www.eventbrite.ca/e/billets-la-plus-poches-des-conferences-rencontrez-les-champions-du-e-commerce-33709445860"><button class="myButton">Inscription</button></a></p>
 					</div>
 				</div>
@@ -110,7 +110,7 @@
 		</tr>
         <tr>
           <td width="100%" align="center"><div id="blockCenter">
-			<p align="center" class="copyright">© SAJE accompagnateur d'entrepreneurs, 1985-2017. Tous droits réservés.</p></div>
+			<p align="center" class="copyright">Â© SAJE accompagnateur d'entrepreneurs, 1985-2017. Tous droits rÃ©servÃ©s.</p></div>
 		  </td>
         </tr>
        </table>
